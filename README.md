@@ -1,9 +1,6 @@
 # UNREAL
 
 UNREAL turns a frozen LLM into a retriever by training only a small head on top of it.
-This repository has the inference code for UNREAL on
-[NVIDIA-Nemotron-3.5-Lightning-30B-A3B](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-BF16):
-encoding a corpus, retrieving chunks for questions, and measuring recall.
 
 ## How it works
 
